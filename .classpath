@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry including="DemoClone3.java|DemoCustException1.java|DemoCustException2.java|DemoException.java|DemoObjectClass.java|DemoSerialiazable.java|DemoStrBuffer.java|DemoString.java|DemoStringBuilder.java|DemoThread.java|DemoThreadInterface.java|DemoThreadSync.java|ExampleAbstract/|ExampleCollection/|ExampleInterface/|InterThread.java|demo2.java|iheritanceExample/|sample1.java" kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
